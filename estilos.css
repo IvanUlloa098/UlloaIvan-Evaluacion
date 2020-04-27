@@ -1,0 +1,27 @@
+#logo {
+    width: 30%;
+    float: left;
+}
+
+nav {
+    width: 40%;
+    float: left;
+    margin: 3%;
+}
+
+div {
+    clear: both;
+}
+
+nav ul li {
+    display: table-cell;
+    margin: 10em;
+    border: solid #c13508;
+    background-color: #c13508;
+    padding: 0 1em 0 2em;
+
+}
+
+a {
+    text-decoration: none;
+}
